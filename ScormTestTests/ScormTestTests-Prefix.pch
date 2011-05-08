@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ScormTestTests' target in the 'ScormTestTests' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
